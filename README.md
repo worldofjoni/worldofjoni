@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Tutorial Slides
+- [Linear Algebra 1](math-slides/la1-summary.pdf)
+- [Linear Algebra 2](math-slides/la2-summary.pdf)
